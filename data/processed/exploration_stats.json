@@ -1,0 +1,9 @@
+{
+  "total_documents": 3200,
+  "total_qa_pairs": 918,
+  "avg_doc_length": 62.10375,
+  "min_doc_length": 1,
+  "max_doc_length": 425,
+  "avg_question_length": 9.117647058823529,
+  "avg_answer_length": 3.377995642701525
+}

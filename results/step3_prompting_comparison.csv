@@ -1,0 +1,5 @@
+Strategy,Avg F1 Score,Exact Match %,Time (min)
+basic,0.444,39.0%,1.8
+cot,0.064,0.0%,8.3
+persona,0.403,35.0%,1.5
+instruction,0.267,20.0%,1.3

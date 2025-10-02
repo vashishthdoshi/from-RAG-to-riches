@@ -1,0 +1,3234 @@
+[
+  {
+    "strategy": "basic",
+    "avg_f1": 0.4444450520239993,
+    "avg_em": 0.39,
+    "time_minutes": 1.8451866825421652,
+    "detailed_results": [
+      {
+        "question": "Was Abraham Lincoln the sixteenth President of the United States?",
+        "expected": "yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7095189094543457
+      },
+      {
+        "question": "Did Lincoln sign the National Banking Act of 1863?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6409220695495605
+      },
+      {
+        "question": "Did his mother die of pneumonia?",
+        "expected": "no",
+        "predicted": "unanswerable",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.48330748081207275
+      },
+      {
+        "question": "How many long was Lincoln's formal education?",
+        "expected": "18 months",
+        "predicted": "18 months",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6600285172462463
+      },
+      {
+        "question": "When did Lincoln begin his political career?",
+        "expected": "1832",
+        "predicted": "1832",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6692885756492615
+      },
+      {
+        "question": "What did The Legal Tender Act of 1862 establish?",
+        "expected": "the United States Note, the first paper currency in United States history",
+        "predicted": "United States Note",
+        "f1_score": 0.3333333333333333,
+        "exact_match": false,
+        "retrieval_score": 0.6785458326339722
+      },
+      {
+        "question": "Who suggested Lincoln grow a beard?",
+        "expected": "11-year-old Grace Bedell",
+        "predicted": "Grace Bedell",
+        "f1_score": 0.8,
+        "exact_match": false,
+        "retrieval_score": 0.7020761966705322
+      },
+      {
+        "question": "When did the Gettysburg address argue that America was born?",
+        "expected": "1776",
+        "predicted": "1776",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6154927611351013
+      },
+      {
+        "question": "Did Lincoln beat John C. Breckinridge in the 1860 election?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7117346525192261
+      },
+      {
+        "question": "Was Abraham Lincoln the first President of the United States?",
+        "expected": "No",
+        "predicted": "no",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6729130744934082
+      },
+      {
+        "question": "Did Lincoln start his political career in 1832?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6880111694335938
+      },
+      {
+        "question": "Did Lincoln ever represent Alton & Sangamon Railroad?",
+        "expected": "Yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6018450856208801
+      },
+      {
+        "question": "Which county was Lincoln born in?",
+        "expected": "Hardin County",
+        "predicted": "Illinois",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.649633526802063
+      },
+      {
+        "question": "When did Lincoln first serve as President?",
+        "expected": "March 4, 1861",
+        "predicted": "1865",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6592390537261963
+      },
+      {
+        "question": "Who assassinated Lincoln?",
+        "expected": "John Wilkes Booth",
+        "predicted": "charles dickens",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6509284973144531
+      },
+      {
+        "question": "Did Lincoln win the election of 1860?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6822433471679688
+      },
+      {
+        "question": "Who was the general in charge at the Battle of Antietam?",
+        "expected": "General McClellan",
+        "predicted": "McClellan",
+        "f1_score": 0.6666666666666666,
+        "exact_match": false,
+        "retrieval_score": 0.49483391642570496
+      },
+      {
+        "question": "Why did Lincoln issue the Emancipation Proclamation?",
+        "expected": "To free slaves ",
+        "predicted": "freed slaves in territories not under Union control",
+        "f1_score": 0.18181818181818182,
+        "exact_match": false,
+        "retrieval_score": 0.6635249257087708
+      },
+      {
+        "question": "Do scholars rank lincoln among the top three presidents?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6207891702651978
+      },
+      {
+        "question": "Did lincoln have 18 months of schooling?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6335834264755249
+      },
+      {
+        "question": "Was Lincoln chosen as a presidential candidate in 1860?",
+        "expected": "Yes",
+        "predicted": "Lincoln was eventually chosen",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6902966499328613
+      },
+      {
+        "question": "How old was Lincoln in 1816?",
+        "expected": "seven",
+        "predicted": "18",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6962054967880249
+      },
+      {
+        "question": "When was the first photgraph of lincoln taken?",
+        "expected": "1846",
+        "predicted": "1846",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6706699132919312
+      },
+      {
+        "question": "How long was Lincoln's legal Career?",
+        "expected": "23 years",
+        "predicted": "1837",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6115480065345764
+      },
+      {
+        "question": "What trail did Lincoln use a Farmers' Almanac in? ",
+        "expected": "he defended William \"Duff\" Armstrong",
+        "predicted": "New Salem",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5029345750808716
+      },
+      {
+        "question": "Did Abraham Lincoln live in the Frontier?",
+        "expected": "Yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6302716732025146
+      },
+      {
+        "question": "Did Lincoln's Wife's Family support slavery?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6118900179862976
+      },
+      {
+        "question": "Who is most noted for his contributions to the theory of molarity and molecular weight?",
+        "expected": "Amedeo Avogadro",
+        "predicted": "Amedeo Carlo Avogadro",
+        "f1_score": 0.8,
+        "exact_match": false,
+        "retrieval_score": 0.6071586608886719
+      },
+      {
+        "question": "Who graduated in ecclesiastical law at the early age of 20 and began to practice?",
+        "expected": "Amedeo Avogadro",
+        "predicted": "He",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9122514724731445
+      },
+      {
+        "question": "When did he publish another memoria?",
+        "expected": "1821",
+        "predicted": "1821",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.543007493019104
+      },
+      {
+        "question": "When did he become a professor?",
+        "expected": "1820",
+        "predicted": "1833",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5765694379806519
+      },
+      {
+        "question": "Is it true that he became a professor in 1820?",
+        "expected": "yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5728096961975098
+      },
+      {
+        "question": "Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6230548620223999
+      },
+      {
+        "question": "Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.9358149766921997
+      },
+      {
+        "question": "Is he most noted for his contributions to the theory of molarity and molecular weight?",
+        "expected": "yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6009079217910767
+      },
+      {
+        "question": "Was King Victor Emmanuel III there to pay homage to Avogadro ?",
+        "expected": "yes",
+        "predicted": "King Victor Emmanuel III was there",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6783308982849121
+      },
+      {
+        "question": "Is Avogadro 's number commonly used to compute the results of chemical reactions ?",
+        "expected": "yes",
+        "predicted": "commonly used to compute the results of chemical reactions",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6831468343734741
+      },
+      {
+        "question": "Did the scientific community not reserve great attention to his theory ?",
+        "expected": "yes",
+        "predicted": "The scientific establishment considered it to exceed the bounds of reason.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5679363012313843
+      },
+      {
+        "question": "Can the title of this famous 1811 paper be roughly translated into english?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.5238463282585144
+      },
+      {
+        "question": "What happened in 1833?",
+        "expected": "Avogadro had been recalled to Turin university",
+        "predicted": "The Resumption of Species Act of 1875",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.4421173632144928
+      },
+      {
+        "question": "Who determined the dependence of the boiling of water with atmospheric pressure?",
+        "expected": "Anders Celsius",
+        "predicted": "Anders Celsius",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.5451335310935974
+      },
+      {
+        "question": "What is named after him?",
+        "expected": "The Celsius crater on the Moon",
+        "predicted": "samuel",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.616692066192627
+      },
+      {
+        "question": "When did he publish a collection?",
+        "expected": "1733",
+        "predicted": "1841",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.45811858773231506
+      },
+      {
+        "question": "Is it true that he published a collection in 1738?",
+        "expected": "No",
+        "predicted": "no",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.48784133791923523
+      },
+      {
+        "question": "Is it true that thermometer had 100 for the freezing point?",
+        "expected": "Yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.539851725101471
+      },
+      {
+        "question": "Was Celsius born in Uppsala in Sweden?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8115759491920471
+      },
+      {
+        "question": "Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.9756119251251221
+      },
+      {
+        "question": "Is The Celsius crater on the Moon named after him?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.9467015266418457
+      },
+      {
+        "question": "Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?",
+        "expected": "Anders Celsius",
+        "predicted": "Anders Celsius",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7064798474311829
+      },
+      {
+        "question": "The Celsius crater on the Moon is what?",
+        "expected": "named after him",
+        "predicted": "named after him",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8277751207351685
+      },
+      {
+        "question": "Is the Celsius crater on the Moon named after him ?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.9467015266418457
+      },
+      {
+        "question": "Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?",
+        "expected": "Yes it had",
+        "predicted": "No , he had 0 for the freezing point of water.",
+        "f1_score": 0.14285714285714288,
+        "exact_match": false,
+        "retrieval_score": 0.6050230860710144
+      },
+      {
+        "question": "Was Celsius born in Uppsala in Sweden ?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8115759491920471
+      },
+      {
+        "question": "Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?",
+        "expected": "Yes he did",
+        "predicted": "No",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.49259287118911743
+      },
+      {
+        "question": "What happened from 1730 to 1744?",
+        "expected": "He was professor of astronomy at Uppsala University",
+        "predicted": "His time in Scotland",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5276104807853699
+      },
+      {
+        "question": "What happened in 1745?",
+        "expected": "The scale was reversed",
+        "predicted": "His time in Scotland",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.45600658655166626
+      },
+      {
+        "question": "Are beetles insects?",
+        "expected": "Yes",
+        "predicted": "many agricultural, forestry, and household insect pests",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8240383863449097
+      },
+      {
+        "question": "Can beetles be found in polar regions?",
+        "expected": "No",
+        "predicted": "no",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.5858718752861023
+      },
+      {
+        "question": "Do beetles antennae function primarily as organs of smell?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7803361415863037
+      },
+      {
+        "question": "What are the three sections of a beetle?",
+        "expected": "the head, the thorax, and the abdomen",
+        "predicted": "head, thorax, and the abdomen",
+        "f1_score": 1.0,
+        "exact_match": false,
+        "retrieval_score": 0.7269861698150635
+      },
+      {
+        "question": "Which defense mechanism uses colour or shape to deceive potential enemies?",
+        "expected": "mimicry",
+        "predicted": "mimicry",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6781792044639587
+      },
+      {
+        "question": "Which type of beetle is a pest of potato plants?",
+        "expected": "Colorado potato beetle",
+        "predicted": "Colorado potato beetle",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7692309617996216
+      },
+      {
+        "question": "How can beetle larvae be differentiated from other insect larvae?",
+        "expected": "their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body",
+        "predicted": "hardened, often darkened head",
+        "f1_score": 0.31578947368421056,
+        "exact_match": false,
+        "retrieval_score": 0.6477240324020386
+      },
+      {
+        "question": "What do beetles eat?",
+        "expected": "Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.",
+        "predicted": "plants and fungi",
+        "f1_score": 0.2222222222222222,
+        "exact_match": false,
+        "retrieval_score": 0.7598491907119751
+      },
+      {
+        "question": "What are the similarities between beetles and grasshoppers?",
+        "expected": "mouthparts",
+        "predicted": "beetles and grasshoppers",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6891112923622131
+      },
+      {
+        "question": "Are certain species of beetles considered pests?",
+        "expected": "Yes",
+        "predicted": "many agricultural, forestry, and household insect pests",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.815142035484314
+      },
+      {
+        "question": "Is a beetle's general anatomy uniform?",
+        "expected": "Yes",
+        "predicted": "quite uniform",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6772172451019287
+      },
+      {
+        "question": "Are beetles endopterygotes?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8832166790962219
+      },
+      {
+        "question": "How many species of beetles are there?",
+        "expected": "350,000",
+        "predicted": "350,000",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7916178703308105
+      },
+      {
+        "question": "When are sperm cells transferred to the female?",
+        "expected": "during pairing",
+        "predicted": "During pairing",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.5689852237701416
+      },
+      {
+        "question": "What is the study of beetles called?",
+        "expected": "coleopterology",
+        "predicted": "coleopterology",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7542099356651306
+      },
+      {
+        "question": "Is it possible that there are more than 350,000 species of beetles?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8313933610916138
+      },
+      {
+        "question": "Is the Adephaga suborder larger than the Polyphaga suborder?",
+        "expected": "no",
+        "predicted": "yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6379977464675903
+      },
+      {
+        "question": "Do carrion beetles eat dung?",
+        "expected": "no",
+        "predicted": "yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6921041011810303
+      },
+      {
+        "question": "What are prey of various animals including birds and mammals?",
+        "expected": "Beetles.",
+        "predicted": "ducklings",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5986983776092529
+      },
+      {
+        "question": "What was given by Aristotle for the hardened shield like forewings?",
+        "expected": "The name \"Coleoptera\".",
+        "predicted": "coleoptera",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.697138786315918
+      },
+      {
+        "question": "Who or what vary greatly in form within the coleoptera?",
+        "expected": "Antennae.",
+        "predicted": "insect pests",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6300077438354492
+      },
+      {
+        "question": "Are many beetles territorial?",
+        "expected": "Yes.",
+        "predicted": "yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.703010082244873
+      },
+      {
+        "question": "Are beetles endopterygotes with complete metamorphosis?",
+        "expected": "Yes.",
+        "predicted": "yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9662809371948242
+      },
+      {
+        "question": "Oxygen is what?",
+        "expected": "One kind of gas obtained via a tracheal system.",
+        "predicted": "tracheal system",
+        "f1_score": 0.1818181818181818,
+        "exact_match": false,
+        "retrieval_score": 0.5153404474258423
+      },
+      {
+        "question": "Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?",
+        "expected": "Yes.",
+        "predicted": "Beetle collection at the Melbourne Museum, Australia",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7200954556465149
+      },
+      {
+        "question": "Have coleopterists formed organisations to facilitate the study of beetles ?",
+        "expected": "Yes.",
+        "predicted": "Yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8823890686035156
+      },
+      {
+        "question": "Is the study of beetles called coleopterology , and its practitioners are coleopterists ?",
+        "expected": "Yes.",
+        "predicted": "yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8966187834739685
+      },
+      {
+        "question": "May a single female lay from several dozen to several thousand eggs during her lifetime ?",
+        "expected": "Yes.",
+        "predicted": "may lay from several dozen to several thousand eggs",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.695026159286499
+      },
+      {
+        "question": "Can beetles be found in almost all habitats?",
+        "expected": "Yes.",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7182270288467407
+      },
+      {
+        "question": "What happened on plants and fungi?",
+        "expected": "They are food to beetles.",
+        "predicted": "spread throughout Finland from Norway",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.39952588081359863
+      },
+      {
+        "question": "Was Calvin Coolidge the twenty-ninth vice president?",
+        "expected": "no",
+        "predicted": "no",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7261096239089966
+      },
+      {
+        "question": "Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6741576194763184
+      },
+      {
+        "question": "Did Coolidge graduate from Black River Academy?",
+        "expected": "yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6667219400405884
+      },
+      {
+        "question": "When did he drop John from his name?",
+        "expected": "upon graduating from college",
+        "predicted": "when James was 17",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5140160918235779
+      },
+      {
+        "question": "When did Coolidge meet and marry Grace Anna Goodhue?",
+        "expected": "1905",
+        "predicted": "1905",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6627699136734009
+      },
+      {
+        "question": "What period of rapid economic growth did the United States experience during Coolidge's presidency?",
+        "expected": "the Roaring Twenties",
+        "predicted": "Roaring Twenties",
+        "f1_score": 0.8,
+        "exact_match": false,
+        "retrieval_score": 0.6452919840812683
+      },
+      {
+        "question": "What did Coolidge do after graduating from Amherst?",
+        "expected": "Coolidge moved to Northampton, MassachuS08_setts",
+        "predicted": "graduate student",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8806955814361572
+      },
+      {
+        "question": "Of what state was Coolidge governor?",
+        "expected": "MassachuS08_setts",
+        "predicted": "New Hampshire",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6678772568702698
+      },
+      {
+        "question": "Who appointed Harlan Fiske Stone to the Supreme Court?",
+        "expected": "Coolidge",
+        "predicted": "the United States Senate",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8397711515426636
+      },
+      {
+        "question": "Was Coolidge the thirteenth President of the United States?",
+        "expected": "No",
+        "predicted": "no",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6799185276031494
+      },
+      {
+        "question": "Was Calvin Coolidge Republican?",
+        "expected": "Yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7806318998336792
+      },
+      {
+        "question": "Was Calvin Coolidge a governor of MassachuS08_setts?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7306407690048218
+      },
+      {
+        "question": "When was Coolidge born?",
+        "expected": "July 4 1872",
+        "predicted": "April 17, 1939",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7184393405914307
+      },
+      {
+        "question": "Where did Coolidge's grandfather had government offices?",
+        "expected": "Plymouth",
+        "predicted": "New York City",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7027729749679565
+      }
+    ]
+  },
+  {
+    "strategy": "cot",
+    "avg_f1": 0.06396420193708217,
+    "avg_em": 0.0,
+    "time_minutes": 8.272875440120696,
+    "detailed_results": [
+      {
+        "question": "Was Abraham Lincoln the sixteenth President of the United States?",
+        "expected": "yes",
+        "predicted": "Abraham Lincoln was the 16th President of the United States. Abraham Lincoln was born in 1865. The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7095189094543457
+      },
+      {
+        "question": "Did Lincoln sign the National Banking Act of 1863?",
+        "expected": "yes",
+        "predicted": "The relevant sentence in the passage is: Also included was the creation of the system of national banks by the National Banking Acts of 1863, 1864, and 1865, which allowed the creation of a strong national financial system. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6409220695495605
+      },
+      {
+        "question": "Did his mother die of pneumonia?",
+        "expected": "no",
+        "predicted": "The cause of his continual poor health was never precisely determined, though speculation focuses on tuberculosis, stomach cancer, or a combination of the two. Muir, 103. The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.48330748081207275
+      },
+      {
+        "question": "How many long was Lincoln's formal education?",
+        "expected": "18 months",
+        "predicted": "Lincoln's formal education consisted of about 18 months of schooling. The answer: 18 months.",
+        "f1_score": 0.2857142857142857,
+        "exact_match": false,
+        "retrieval_score": 0.6600285172462463
+      },
+      {
+        "question": "When did Lincoln begin his political career?",
+        "expected": "1832",
+        "predicted": "The relevant sentence in the passage is: Lincoln began his political career in 1832, at age 23. The answer: 1832.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6692885756492615
+      },
+      {
+        "question": "What did The Legal Tender Act of 1862 establish?",
+        "expected": "the United States Note, the first paper currency in United States history",
+        "predicted": "The Legal Tender Act of 1862 established the United States Note, the first paper currency in United States history. The answer: the United States Note.",
+        "f1_score": 0.6153846153846153,
+        "exact_match": false,
+        "retrieval_score": 0.6785458326339722
+      },
+      {
+        "question": "Who suggested Lincoln grow a beard?",
+        "expected": "11-year-old Grace Bedell",
+        "predicted": "Grace Bedell was 11 years old when Lincoln first grew a beard. Lincoln grew a beard at the suggestion of 11-year-old Grace Bedell. The answer: Grace Bedell.",
+        "f1_score": 0.2608695652173913,
+        "exact_match": false,
+        "retrieval_score": 0.7020761966705322
+      },
+      {
+        "question": "When did the Gettysburg address argue that America was born?",
+        "expected": "1776",
+        "predicted": "In his Gettysburg Address Lincoln redefined the American nation, arguing that it was born not in 1789 but in 1776, \"conceived in Liberty, and dedicated to the proposition that all men are created equal.\" The answer: 1776.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6154927611351013
+      },
+      {
+        "question": "Did Lincoln beat John C. Breckinridge in the 1860 election?",
+        "expected": "yes",
+        "predicted": "The relevant sentence in the passage is: On November 6, 1860, Lincoln was elected as the 16th President of the United States, beating Democrat Stephen A. Douglas, John C. Breckinridge of the Southern Democrats, and John Bell of the new Constitutional Union Party. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7117346525192261
+      },
+      {
+        "question": "Was Abraham Lincoln the first President of the United States?",
+        "expected": "No",
+        "predicted": "Abraham Lincoln was the first President of the United States. Abraham Lincoln was born in 1865. The final answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6729130744934082
+      },
+      {
+        "question": "Did Lincoln start his political career in 1832?",
+        "expected": "Yes",
+        "predicted": "Lincoln began his political career in 1832, at age 23. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6880111694335938
+      },
+      {
+        "question": "Did Lincoln ever represent Alton & Sangamon Railroad?",
+        "expected": "Yes",
+        "predicted": "The relevant sentence in the passage is: Lincoln began his political career in 1832, at age 23, with an unsuccessful campaign for the Illinois General Assembly, as a member of the Whig Party. The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6018450856208801
+      },
+      {
+        "question": "Which county was Lincoln born in?",
+        "expected": "Hardin County",
+        "predicted": "The relevant sentence in the passage is: Robert Todd Lincoln was born in Springfield, Illinois on 1 August, 1843. The answer: Illinois.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.649633526802063
+      },
+      {
+        "question": "When did Lincoln first serve as President?",
+        "expected": "March 4, 1861",
+        "predicted": "Abraham Lincoln served as President from 1861 to 1865. Abraham Lincoln was born in 1865. The answer: 1865.",
+        "f1_score": 0.11764705882352941,
+        "exact_match": false,
+        "retrieval_score": 0.6592390537261963
+      },
+      {
+        "question": "Who assassinated Lincoln?",
+        "expected": "John Wilkes Booth",
+        "predicted": "Young Abraham Lincoln was a young man. Young Abraham Lincoln was a young man. Young Abraham Lincoln assassinated Lincoln. The answer: Young Abraham Lincoln.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6509284973144531
+      },
+      {
+        "question": "Did Lincoln win the election of 1860?",
+        "expected": "Yes",
+        "predicted": "He was the first Republican president, winning entirely on the strength of his support in the North: he was not even on the ballot in nine states in the South, and won only 2 of 996 counties in the other Southern states. Lincoln gained 1,865,908 votes (39.9% of the total), for 180 electoral votes; Douglas, 1,380,202 (29.5%) for 12 electoral votes; Breckenridge, 848,019 (18.1%) for 72 electoral",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6822433471679688
+      },
+      {
+        "question": "Who was the general in charge at the Battle of Antietam?",
+        "expected": "General McClellan",
+        "predicted": "McClellan was the general in charge at the Battle of Antietam. The answer: McClellan.",
+        "f1_score": 0.2857142857142857,
+        "exact_match": false,
+        "retrieval_score": 0.49483391642570496
+      },
+      {
+        "question": "Why did Lincoln issue the Emancipation Proclamation?",
+        "expected": "To free slaves ",
+        "predicted": "The Emancipation Proclamation made the abolition of slavery in the rebel states an official war goal. The answer: made the abolition of slavery in the rebel states an official war goal.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6635249257087708
+      },
+      {
+        "question": "Do scholars rank lincoln among the top three presidents?",
+        "expected": "Yes",
+        "predicted": "The relevant sentence in the passage is: Repeated polls of historians have ranked Lincoln as among the greatest presidents in U.S. history, often appearing in the first position. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6207891702651978
+      },
+      {
+        "question": "Did lincoln have 18 months of schooling?",
+        "expected": "Yes",
+        "predicted": "Lincoln's formal education consisted of about 18 months of schooling. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6335834264755249
+      },
+      {
+        "question": "Was Lincoln chosen as a presidential candidate in 1860?",
+        "expected": "Yes",
+        "predicted": "The relevant sentence in the passage is: Entering the presidential nomination process as a distinct underdog, Lincoln was eventually chosen as the Republican candidate for the 1860 election for several reasons. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6902966499328613
+      },
+      {
+        "question": "How old was Lincoln in 1816?",
+        "expected": "seven",
+        "predicted": "Lincoln was born in 1816. Lincoln was born in 1816. The answer: 1816.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6962054967880249
+      },
+      {
+        "question": "When was the first photgraph of lincoln taken?",
+        "expected": "1846",
+        "predicted": "The relevant sentence in the passage is: The first photograph ever taken of Abraham Lincoln, a daguerreotype taken by Shepherd in 1846. The answer: 1846.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6706699132919312
+      },
+      {
+        "question": "How long was Lincoln's legal Career?",
+        "expected": "23 years",
+        "predicted": "The relevant sentence in the passage is: Admitted to the bar in 1837, he moved to Springfield, Illinois, that same year and began to practice law with John T. Stuart. The answer: 1837.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6115480065345764
+      },
+      {
+        "question": "What trail did Lincoln use a Farmers' Almanac in? ",
+        "expected": "he defended William \"Duff\" Armstrong",
+        "predicted": "The relevant sentence in the passage is: Beveridge (1928) 1:127-8 Later, he found work as village postmaster and as a surveyor. The answer: Beveridge.",
+        "f1_score": 0.07692307692307693,
+        "exact_match": false,
+        "retrieval_score": 0.5029345750808716
+      },
+      {
+        "question": "Did Abraham Lincoln live in the Frontier?",
+        "expected": "Yes",
+        "predicted": "Abraham Lincoln was a young man. The Frontier was a country in the American West. The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6302716732025146
+      },
+      {
+        "question": "Did Lincoln's Wife's Family support slavery?",
+        "expected": "Yes",
+        "predicted": "Mary Todd was born in Springfield, Illinois on 1 August, 1843. The couple had four sons. Robert Todd Lincoln was born in Springfield, Illinois on 1 August, 1843. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6118900179862976
+      },
+      {
+        "question": "Who is most noted for his contributions to the theory of molarity and molecular weight?",
+        "expected": "Amedeo Avogadro",
+        "predicted": "The relevant sentence in the passage is: He is most noted for his contributions to the theory of molarity and molecular weight. The answer: Lorenzo Romano Amedeo Carlo Avogadro.",
+        "f1_score": 0.07142857142857144,
+        "exact_match": false,
+        "retrieval_score": 0.6071586608886719
+      },
+      {
+        "question": "Who graduated in ecclesiastical law at the early age of 20 and began to practice?",
+        "expected": "Amedeo Avogadro",
+        "predicted": "He graduated in ecclesiastical law at the early age of 20 and began to practice. The answer: He.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9122514724731445
+      },
+      {
+        "question": "When did he publish another memoria?",
+        "expected": "1821",
+        "predicted": "The relevant sentence in the passage is: In 1821 he published another memoria, Nouvelles consid\u00e9rations sur la th\u00e9orie des proportions d\u00e9termin\u00e9es dans les combinaisons, et sur la d\u00e9termination des masses des mol\u00e9cules des corps and little after M\u00e9moire on the way to ramener les compos\u00e8s organiques to ordinary laws of proportions determined\u00e9es. The answer: 1821.",
+        "f1_score": 0.04545454545454545,
+        "exact_match": false,
+        "retrieval_score": 0.543007493019104
+      },
+      {
+        "question": "When did he become a professor?",
+        "expected": "1820",
+        "predicted": "In 1833 he was appointed Fullerian professor of chemistry in the institution for life, without the obligation to deliver lectures. The answer: 1833.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5765694379806519
+      },
+      {
+        "question": "Is it true that he became a professor in 1820?",
+        "expected": "yes",
+        "predicted": "He was removed from his chair in 1823 (or, as officially declared, the university was \"very glad to allow this interesting scientist to take a rest from heavy teaching duties, in order to be able to give a better attention to his researches\") . The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5728096961975098
+      },
+      {
+        "question": "Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?",
+        "expected": "yes",
+        "predicted": "The relevant sentence in the passage is: Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6230548620223999
+      },
+      {
+        "question": "Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?",
+        "expected": "yes",
+        "predicted": "Amedeo Avogadro was born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9358149766921997
+      },
+      {
+        "question": "Is he most noted for his contributions to the theory of molarity and molecular weight?",
+        "expected": "yes",
+        "predicted": "The relevant sentence in the passage is: J. H. van 't Hoff added his final consensus for the triumph of the Italian scientist, who since then has been considered the founder of the atomic-molecular theory. The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6009079217910767
+      },
+      {
+        "question": "Was King Victor Emmanuel III there to pay homage to Avogadro ?",
+        "expected": "yes",
+        "predicted": "Avogadro's great contribution to chemistry was recognised and he is recognised as a great Italian chemist. King Victor Emmanuel III was there to pay homage to Avogadro. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6783308982849121
+      },
+      {
+        "question": "Is Avogadro 's number commonly used to compute the results of chemical reactions ?",
+        "expected": "yes",
+        "predicted": "Avogadro's number is commonly used to compute the results of chemical reactions. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6831468343734741
+      },
+      {
+        "question": "Did the scientific community not reserve great attention to his theory ?",
+        "expected": "yes",
+        "predicted": "It was considered by the scientific establishment to exceed the bounds of reason. Some believe that Tesla never fully developed the Unified Field Theory. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5679363012313843
+      },
+      {
+        "question": "Can the title of this famous 1811 paper be roughly translated into english?",
+        "expected": "yes",
+        "predicted": "The title of this famous 1811 paper can be roughly translated into English as \"Essay on Determining the Relative Masses of the Elementary Molecules of Bodies\". The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5238463282585144
+      },
+      {
+        "question": "What happened in 1833?",
+        "expected": "Avogadro had been recalled to Turin university",
+        "predicted": "The Resumption of Species Act of 1875 which was signed by Grant and helped to end the crisis in 1879 when the law came in to effect. The answer: The Resumption of Species Act of 1875.",
+        "f1_score": 0.06451612903225806,
+        "exact_match": false,
+        "retrieval_score": 0.4421173632144928
+      },
+      {
+        "question": "Who determined the dependence of the boiling of water with atmospheric pressure?",
+        "expected": "Anders Celsius",
+        "predicted": "Anders Celsius was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds. The answer: Anders Celsius.",
+        "f1_score": 0.15384615384615385,
+        "exact_match": false,
+        "retrieval_score": 0.5451335310935974
+      },
+      {
+        "question": "What is named after him?",
+        "expected": "The Celsius crater on the Moon",
+        "predicted": "The origin and history of the name is unknown. The name is derived from the Greek word . The answer: .",
+        "f1_score": 0.10526315789473682,
+        "exact_match": false,
+        "retrieval_score": 0.616692066192627
+      },
+      {
+        "question": "When did he publish a collection?",
+        "expected": "1733",
+        "predicted": "In 1841 he completed and published his work in Fisica dei corpi ponderabili, ossia Trattato della costituzione materiale de' corpi, 4 volumes. The answer: 1841.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.45811858773231506
+      },
+      {
+        "question": "Is it true that he published a collection in 1738?",
+        "expected": "No",
+        "predicted": "The Chronology of Ancient Kingdoms Amended (1728) and Observations Upon the Prophecies of Daniel and the Apocalypse of St. John (1733) \u00e2 were published after his death. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.48784133791923523
+      },
+      {
+        "question": "Is it true that thermometer had 100 for the freezing point?",
+        "expected": "Yes",
+        "predicted": "The sentence \"Observations of two persistent degrees on a thermometer\" he reports on experiments to check that the freezing point is independent of latitude (and of atmospheric pressure). The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.539851725101471
+      },
+      {
+        "question": "Was Celsius born in Uppsala in Sweden?",
+        "expected": "Yes",
+        "predicted": "The relevant sentence in the passage is: Celsius was born in Uppsala in Sweden. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8115759491920471
+      },
+      {
+        "question": "Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?",
+        "expected": "Yes",
+        "predicted": "The relevant sentence in the passage is: Anders Celsius (November 27, 1701 April 25, 1744) was a Swedish astronomer. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9756119251251221
+      },
+      {
+        "question": "Is The Celsius crater on the Moon named after him?",
+        "expected": "Yes",
+        "predicted": "The Celsius crater on the Moon is named after him. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9467015266418457
+      },
+      {
+        "question": "Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?",
+        "expected": "Anders Celsius",
+        "predicted": "Anders Celsius was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds. The answer: Anders Celsius.",
+        "f1_score": 0.15384615384615385,
+        "exact_match": false,
+        "retrieval_score": 0.7064798474311829
+      },
+      {
+        "question": "The Celsius crater on the Moon is what?",
+        "expected": "named after him",
+        "predicted": "The Celsius crater on the Moon is named after him. The answer: named after him.",
+        "f1_score": 0.30769230769230765,
+        "exact_match": false,
+        "retrieval_score": 0.8277751207351685
+      },
+      {
+        "question": "Is the Celsius crater on the Moon named after him ?",
+        "expected": "Yes",
+        "predicted": "The Celsius crater on the Moon is named after him. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9467015266418457
+      },
+      {
+        "question": "Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?",
+        "expected": "Yes it had",
+        "predicted": "The freezing point of water is independent of latitude (and of atmospheric pressure). The boiling point of water is independent of atmospheric pressure (in excellent agreement with modern data). The boiling point of water is independent of latitude (and of atmospheric pressure). The freezing point of water is independent of latitude (and of atmospheric pressure). The boiling point of water is independent of latitude (and of atmospheric pressure). The boiling point of water is independent of latitude (and of atmospheric pressure). The",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6050230860710144
+      },
+      {
+        "question": "Was Celsius born in Uppsala in Sweden ?",
+        "expected": "Yes",
+        "predicted": "The relevant sentence in the passage is: Celsius was born in Uppsala in Sweden. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8115759491920471
+      },
+      {
+        "question": "Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?",
+        "expected": "Yes he did",
+        "predicted": "He further gave a rule for the determination of the boiling point if the barometric pressure deviates from a certain standard pressure History of the Celsius temperature scale. The answer: no.",
+        "f1_score": 0.07407407407407407,
+        "exact_match": false,
+        "retrieval_score": 0.49259287118911743
+      },
+      {
+        "question": "What happened from 1730 to 1744?",
+        "expected": "He was professor of astronomy at Uppsala University",
+        "predicted": "Rev. Dr. Richard L., James Watt, Vol 1, His time in Scotland, 1736-1774 (2002); Vol 2, The years of toil, 1775-1785; Vol 3 Triumph through adversity 1785-1819. The answer: His time in Scotland.",
+        "f1_score": 0.05714285714285714,
+        "exact_match": false,
+        "retrieval_score": 0.5276104807853699
+      },
+      {
+        "question": "What happened in 1745?",
+        "expected": "The scale was reversed",
+        "predicted": "The relevant sentence in the passage is: Hills, Rev. Dr. Richard L., James Watt, Vol 1, His time in Scotland, 1736-1774 (2002); Vol 2, The years of toil, 1775-1785; Vol 3 Triumph through adversity 1785-1819. The answer: His time in Scotland.",
+        "f1_score": 0.05555555555555555,
+        "exact_match": false,
+        "retrieval_score": 0.45600658655166626
+      },
+      {
+        "question": "Are beetles insects?",
+        "expected": "Yes",
+        "predicted": "Many agricultural, forestry, and household insect pests are beetles. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8240383863449097
+      },
+      {
+        "question": "Can beetles be found in polar regions?",
+        "expected": "No",
+        "predicted": "Beetles can be found in almost all habitats, but are not known to occur in the sea or in the polar regions. The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5858718752861023
+      },
+      {
+        "question": "Do beetles antennae function primarily as organs of smell?",
+        "expected": "Yes",
+        "predicted": "Beetles' antennae are primarily organs of smell, but may also be used to feel out a beetle's environment physically. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7803361415863037
+      },
+      {
+        "question": "What are the three sections of a beetle?",
+        "expected": "the head, the thorax, and the abdomen",
+        "predicted": "The head, the thorax, and the abdomen. The answer: the head , the thorax , and the abdomen.",
+        "f1_score": 0.5714285714285714,
+        "exact_match": false,
+        "retrieval_score": 0.7269861698150635
+      },
+      {
+        "question": "Which defense mechanism uses colour or shape to deceive potential enemies?",
+        "expected": "mimicry",
+        "predicted": "The relevant sentence in the passage is: Another defence that often uses colour or shape to deceive potential enemies is mimicry. The answer: mimicry.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6781792044639587
+      },
+      {
+        "question": "Which type of beetle is a pest of potato plants?",
+        "expected": "Colorado potato beetle",
+        "predicted": "The relevant sentence in the passage is: The Colorado potato beetle, Leptinotarsa decemlineata, is a notorious pest of potato plants. The answer: The Colorado potato beetle.",
+        "f1_score": 0.18181818181818182,
+        "exact_match": false,
+        "retrieval_score": 0.7692309617996216
+      },
+      {
+        "question": "How can beetle larvae be differentiated from other insect larvae?",
+        "expected": "their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body",
+        "predicted": "Beetle larvae can be differentiated from other insect larvae by their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body. The answer: their hardened , often darkened head.",
+        "f1_score": 0.6511627906976745,
+        "exact_match": false,
+        "retrieval_score": 0.6477240324020386
+      },
+      {
+        "question": "What do beetles eat?",
+        "expected": "Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.",
+        "predicted": "They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates. The answer: plants and fungi.",
+        "f1_score": 0.1818181818181818,
+        "exact_match": false,
+        "retrieval_score": 0.7598491907119751
+      },
+      {
+        "question": "What are the similarities between beetles and grasshoppers?",
+        "expected": "mouthparts",
+        "predicted": "Beetles are herbivores. Beetles are herbivores. The answer: herbivores.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6891112923622131
+      },
+      {
+        "question": "Are certain species of beetles considered pests?",
+        "expected": "Yes",
+        "predicted": "Beetles are a type of beetle. Beetles are beetles. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.815142035484314
+      },
+      {
+        "question": "Is a beetle's general anatomy uniform?",
+        "expected": "Yes",
+        "predicted": "The general anatomy of beetles is quite uniform, although specific organs and appendages may vary greatly in appearance and function between the many families in the order. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6772172451019287
+      },
+      {
+        "question": "Are beetles endopterygotes?",
+        "expected": "yes",
+        "predicted": "Beetles are endopterygotes with complete metamorphosis. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8832166790962219
+      },
+      {
+        "question": "How many species of beetles are there?",
+        "expected": "350,000",
+        "predicted": "The relevant sentence in the passage is: Beetles are a group of insects which have the largest number of species. The answer: 350,000.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7916178703308105
+      },
+      {
+        "question": "When are sperm cells transferred to the female?",
+        "expected": "during pairing",
+        "predicted": "During pairing sperm cells are transferred to the female to fertilise the egg. The answer: During pairing.",
+        "f1_score": 0.2666666666666667,
+        "exact_match": false,
+        "retrieval_score": 0.5689852237701416
+      },
+      {
+        "question": "What is the study of beetles called?",
+        "expected": "coleopterology",
+        "predicted": "The relevant sentence in the passage is: The study of beetles is called coleopterology, and its practitioners are coleopterists. The answer: coleopterology.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7542099356651306
+      },
+      {
+        "question": "Is it possible that there are more than 350,000 species of beetles?",
+        "expected": "yes",
+        "predicted": "There are more than 350,000 species of beetles because there are more than 350,000 species of beetles. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8313933610916138
+      },
+      {
+        "question": "Is the Adephaga suborder larger than the Polyphaga suborder?",
+        "expected": "no",
+        "predicted": "Polyphaga and Myxophaga are most closely related, with Adephaga as the sister group to those two, and Archostemata as sister to the other three collectively. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6379977464675903
+      },
+      {
+        "question": "Do carrion beetles eat dung?",
+        "expected": "no",
+        "predicted": "The relevant sentence in the passage is: Carrion beetles are in fact predatory, such as the clown beetles, preying on the larvae of coprophagous and necrophagous insects. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6921041011810303
+      },
+      {
+        "question": "What are prey of various animals including birds and mammals?",
+        "expected": "Beetles.",
+        "predicted": "Ducklings are particularly vulnerable, since their inability to fly makes them easy prey not only for avian hunters but also large fish like pike, crocodilians, and other aquatic hunters, including fish-eating birds such as herons. Nests may also be raided by land-based predators, and brooding females may sometimes be caught unaware on the nest by mammals (e.g. foxes)",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5986983776092529
+      },
+      {
+        "question": "What was given by Aristotle for the hardened shield like forewings?",
+        "expected": "The name \"Coleoptera\".",
+        "predicted": "The name \"Coleoptera\" was given by Aristotle for the hardened shield like forewings. The answer: Coleoptera.",
+        "f1_score": 0.23529411764705882,
+        "exact_match": false,
+        "retrieval_score": 0.697138786315918
+      },
+      {
+        "question": "Who or what vary greatly in form within the coleoptera?",
+        "expected": "Antennae.",
+        "predicted": "Beetles are insect pests. Beetles vary greatly in form within the coleoptera. The answer: beetles.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6300077438354492
+      },
+      {
+        "question": "Are many beetles territorial?",
+        "expected": "Yes.",
+        "predicted": "Many agricultural, forestry, and household insect pests are beetles. The answer: yes.",
+        "f1_score": 0.15384615384615385,
+        "exact_match": false,
+        "retrieval_score": 0.703010082244873
+      },
+      {
+        "question": "Are beetles endopterygotes with complete metamorphosis?",
+        "expected": "Yes.",
+        "predicted": "Beetles are endopterygotes with complete metamorphosis. The answer: yes.",
+        "f1_score": 0.19999999999999998,
+        "exact_match": false,
+        "retrieval_score": 0.9662809371948242
+      },
+      {
+        "question": "Oxygen is what?",
+        "expected": "One kind of gas obtained via a tracheal system.",
+        "predicted": "Air enters a series of tubes along the body through openings called spiracles, and is then taken into increasingly finer fibres. The answer: air.",
+        "f1_score": 0.125,
+        "exact_match": false,
+        "retrieval_score": 0.5153404474258423
+      },
+      {
+        "question": "Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?",
+        "expected": "Yes.",
+        "predicted": "Beetle collection at the Melbourne Museum, Australia is thriving. Beetle collection at the Melbourne Museum, Australia is thriving. The answer: yes.",
+        "f1_score": 0.16666666666666669,
+        "exact_match": false,
+        "retrieval_score": 0.7200954556465149
+      },
+      {
+        "question": "Have coleopterists formed organisations to facilitate the study of beetles ?",
+        "expected": "Yes.",
+        "predicted": "Coleopterists have formed organisations to facilitate the study of beetles. The answer: yes.",
+        "f1_score": 0.15384615384615385,
+        "exact_match": false,
+        "retrieval_score": 0.8823890686035156
+      },
+      {
+        "question": "Is the study of beetles called coleopterology , and its practitioners are coleopterists ?",
+        "expected": "Yes.",
+        "predicted": "The study of beetles is called coleopterology, and its practitioners are coleopterists. The answer: yes.",
+        "f1_score": 0.13333333333333333,
+        "exact_match": false,
+        "retrieval_score": 0.8966187834739685
+      },
+      {
+        "question": "May a single female lay from several dozen to several thousand eggs during her lifetime ?",
+        "expected": "Yes.",
+        "predicted": "A single female may lay from several dozen to several thousand eggs during her lifetime. The answer: yes.",
+        "f1_score": 0.1111111111111111,
+        "exact_match": false,
+        "retrieval_score": 0.695026159286499
+      },
+      {
+        "question": "Can beetles be found in almost all habitats?",
+        "expected": "Yes.",
+        "predicted": "Beetles are pests that can be found in almost all habitats. The answer: yes.",
+        "f1_score": 0.13333333333333333,
+        "exact_match": false,
+        "retrieval_score": 0.7182270288467407
+      },
+      {
+        "question": "What happened on plants and fungi?",
+        "expected": "They are food to beetles.",
+        "predicted": "Plant life, like most of the Finnish ecology, is well adapted to tolerate the contrasting seasons and extreme weather. Plant species, such as the Scots Pine, spruce, birch spread throughout Finland from Norway and only reached the western coast less than three millennia ago. The answer: spread throughout Finland from Norway and only reached the western coast less than three millennia ago.",
+        "f1_score": 0.04444444444444445,
+        "exact_match": false,
+        "retrieval_score": 0.39952588081359863
+      },
+      {
+        "question": "Was Calvin Coolidge the twenty-ninth vice president?",
+        "expected": "no",
+        "predicted": "Calvin Coolidge is the twenty-ninth vice president. Charles G. Dawes is the vice president. Calvin Coolidge is the vice president. The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7261096239089966
+      },
+      {
+        "question": "Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?",
+        "expected": "yes",
+        "predicted": "Calvin Coolidge Jr. was born in Plymouth, Windsor County, Vermont. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6741576194763184
+      },
+      {
+        "question": "Did Coolidge graduate from Black River Academy?",
+        "expected": "yes",
+        "predicted": "Coolidge was an Amherst undergraduate. Coolidge graduated from Black River Academy. The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6667219400405884
+      },
+      {
+        "question": "When did he drop John from his name?",
+        "expected": "upon graduating from college",
+        "predicted": "When James was 17, Watt dropped John from his name because he was shipwrecked. The answer: 17.",
+        "f1_score": 0.1,
+        "exact_match": false,
+        "retrieval_score": 0.5140160918235779
+      },
+      {
+        "question": "When did Coolidge meet and marry Grace Anna Goodhue?",
+        "expected": "1905",
+        "predicted": "In 1905, Coolidge met and married Grace Anna Goodhue. The answer: 1905.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6627699136734009
+      },
+      {
+        "question": "What period of rapid economic growth did the United States experience during Coolidge's presidency?",
+        "expected": "the Roaring Twenties",
+        "predicted": "The relevant sentence in the passage is: During Coolidge's presidency the United States experienced the period of rapid economic growth known as the \"Roaring Twenties.\" So, the answer is the Roaring Twenties.",
+        "f1_score": 0.13793103448275862,
+        "exact_match": false,
+        "retrieval_score": 0.6452919840812683
+      },
+      {
+        "question": "What did Coolidge do after graduating from Amherst?",
+        "expected": "Coolidge moved to Northampton, MassachuS08_setts",
+        "predicted": "The relevant sentence in the passage is: Coolidge as an Amherst undergraduate. The answer: undergraduate.",
+        "f1_score": 0.11764705882352941,
+        "exact_match": false,
+        "retrieval_score": 0.8806955814361572
+      },
+      {
+        "question": "Of what state was Coolidge governor?",
+        "expected": "MassachuS08_setts",
+        "predicted": "Calvin Coolidge was a young legislator. Calvin Coolidge was governor of New Hampshire. The answer: New Hampshire.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6678772568702698
+      },
+      {
+        "question": "Who appointed Harlan Fiske Stone to the Supreme Court?",
+        "expected": "Coolidge",
+        "predicted": "Harlan Fiske Stone was appointed to the Supreme Court by the President of the United States. The answer: President of the United States.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8397711515426636
+      },
+      {
+        "question": "Was Coolidge the thirteenth President of the United States?",
+        "expected": "No",
+        "predicted": "Coolidge was the thirteenth President of the United States. Charles G. Dawes was the Vice President of the United States. The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6799185276031494
+      },
+      {
+        "question": "Was Calvin Coolidge Republican?",
+        "expected": "Yes",
+        "predicted": "Calvin Coolidge was a young legislator. Calvin Coolidge was a Republican. The answer: no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7806318998336792
+      },
+      {
+        "question": "Was Calvin Coolidge a governor of MassachuS08_setts?",
+        "expected": "Yes",
+        "predicted": "Calvin Coolidge was a young legislator. Calvin Coolidge represented MassachuS08_setts. The answer: yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7306407690048218
+      },
+      {
+        "question": "When was Coolidge born?",
+        "expected": "July 4 1872",
+        "predicted": "Calvin Coolidge was born on March 30, 1921. The answer: March 30, 1921.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7184393405914307
+      },
+      {
+        "question": "Where did Coolidge's grandfather had government offices?",
+        "expected": "Plymouth",
+        "predicted": "John Calvin Coolidge, Sr. was the father of John Calvin Coolidge. John Calvin Coolidge, Sr. had government offices in New York City. The answer: New York City.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7027729749679565
+      }
+    ]
+  },
+  {
+    "strategy": "persona",
+    "avg_f1": 0.4033622431208638,
+    "avg_em": 0.35,
+    "time_minutes": 1.5104599912961325,
+    "detailed_results": [
+      {
+        "question": "Was Abraham Lincoln the sixteenth President of the United States?",
+        "expected": "yes",
+        "predicted": "Abraham Lincoln was the 16th President of the United States.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7095189094543457
+      },
+      {
+        "question": "Did Lincoln sign the National Banking Act of 1863?",
+        "expected": "yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6409220695495605
+      },
+      {
+        "question": "Did his mother die of pneumonia?",
+        "expected": "no",
+        "predicted": "a combination of the two. Muir, 103.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.48330748081207275
+      },
+      {
+        "question": "How many long was Lincoln's formal education?",
+        "expected": "18 months",
+        "predicted": "18 months",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6600285172462463
+      },
+      {
+        "question": "When did Lincoln begin his political career?",
+        "expected": "1832",
+        "predicted": "1832",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6692885756492615
+      },
+      {
+        "question": "What did The Legal Tender Act of 1862 establish?",
+        "expected": "the United States Note, the first paper currency in United States history",
+        "predicted": "United States Note",
+        "f1_score": 0.3333333333333333,
+        "exact_match": false,
+        "retrieval_score": 0.6785458326339722
+      },
+      {
+        "question": "Who suggested Lincoln grow a beard?",
+        "expected": "11-year-old Grace Bedell",
+        "predicted": "Grace Bedell",
+        "f1_score": 0.8,
+        "exact_match": false,
+        "retrieval_score": 0.7020761966705322
+      },
+      {
+        "question": "When did the Gettysburg address argue that America was born?",
+        "expected": "1776",
+        "predicted": "1776",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6154927611351013
+      },
+      {
+        "question": "Did Lincoln beat John C. Breckinridge in the 1860 election?",
+        "expected": "yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7117346525192261
+      },
+      {
+        "question": "Was Abraham Lincoln the first President of the United States?",
+        "expected": "No",
+        "predicted": "Abraham Lincoln served as President of the United States from 1861 to 1865.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6729130744934082
+      },
+      {
+        "question": "Did Lincoln start his political career in 1832?",
+        "expected": "Yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6880111694335938
+      },
+      {
+        "question": "Did Lincoln ever represent Alton & Sangamon Railroad?",
+        "expected": "Yes",
+        "predicted": "No",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6018450856208801
+      },
+      {
+        "question": "Which county was Lincoln born in?",
+        "expected": "Hardin County",
+        "predicted": "Illinois",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.649633526802063
+      },
+      {
+        "question": "When did Lincoln first serve as President?",
+        "expected": "March 4, 1861",
+        "predicted": "1865",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6592390537261963
+      },
+      {
+        "question": "Who assassinated Lincoln?",
+        "expected": "John Wilkes Booth",
+        "predicted": "Abraham Lincoln",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6509284973144531
+      },
+      {
+        "question": "Did Lincoln win the election of 1860?",
+        "expected": "Yes",
+        "predicted": "Lincoln was elected as the 16th President of the United States",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6822433471679688
+      },
+      {
+        "question": "Who was the general in charge at the Battle of Antietam?",
+        "expected": "General McClellan",
+        "predicted": "McClellan",
+        "f1_score": 0.6666666666666666,
+        "exact_match": false,
+        "retrieval_score": 0.49483391642570496
+      },
+      {
+        "question": "Why did Lincoln issue the Emancipation Proclamation?",
+        "expected": "To free slaves ",
+        "predicted": "The proclamation made the abolition of slavery in the rebel states an official war goal.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6635249257087708
+      },
+      {
+        "question": "Do scholars rank lincoln among the top three presidents?",
+        "expected": "Yes",
+        "predicted": "Rank Lincoln among the greatest presidents in U.S. history",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6207891702651978
+      },
+      {
+        "question": "Did lincoln have 18 months of schooling?",
+        "expected": "Yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6335834264755249
+      },
+      {
+        "question": "Was Lincoln chosen as a presidential candidate in 1860?",
+        "expected": "Yes",
+        "predicted": "Lincoln was eventually chosen as the Republican candidate for the 1860 election",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6902966499328613
+      },
+      {
+        "question": "How old was Lincoln in 1816?",
+        "expected": "seven",
+        "predicted": "17",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6962054967880249
+      },
+      {
+        "question": "When was the first photgraph of lincoln taken?",
+        "expected": "1846",
+        "predicted": "1846",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6706699132919312
+      },
+      {
+        "question": "How long was Lincoln's legal Career?",
+        "expected": "23 years",
+        "predicted": "1837",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6115480065345764
+      },
+      {
+        "question": "What trail did Lincoln use a Farmers' Almanac in? ",
+        "expected": "he defended William \"Duff\" Armstrong",
+        "predicted": "New Salem",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5029345750808716
+      },
+      {
+        "question": "Did Abraham Lincoln live in the Frontier?",
+        "expected": "Yes",
+        "predicted": "Abraham Lincoln was born in Lincoln, Nebraska.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6302716732025146
+      },
+      {
+        "question": "Did Lincoln's Wife's Family support slavery?",
+        "expected": "Yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6118900179862976
+      },
+      {
+        "question": "Who is most noted for his contributions to the theory of molarity and molecular weight?",
+        "expected": "Amedeo Avogadro",
+        "predicted": "Avogadro",
+        "f1_score": 0.6666666666666666,
+        "exact_match": false,
+        "retrieval_score": 0.6071586608886719
+      },
+      {
+        "question": "Who graduated in ecclesiastical law at the early age of 20 and began to practice?",
+        "expected": "Amedeo Avogadro",
+        "predicted": "[1].",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9122514724731445
+      },
+      {
+        "question": "When did he publish another memoria?",
+        "expected": "1821",
+        "predicted": "1821",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.543007493019104
+      },
+      {
+        "question": "When did he become a professor?",
+        "expected": "1820",
+        "predicted": "1833",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5765694379806519
+      },
+      {
+        "question": "Is it true that he became a professor in 1820?",
+        "expected": "yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5728096961975098
+      },
+      {
+        "question": "Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?",
+        "expected": "yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6230548620223999
+      },
+      {
+        "question": "Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?",
+        "expected": "yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.9358149766921997
+      },
+      {
+        "question": "Is he most noted for his contributions to the theory of molarity and molecular weight?",
+        "expected": "yes",
+        "predicted": "atomic-molecular theory",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6009079217910767
+      },
+      {
+        "question": "Was King Victor Emmanuel III there to pay homage to Avogadro ?",
+        "expected": "yes",
+        "predicted": "King Victor Emmanuel III was there to pay homage to Avogadro",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6783308982849121
+      },
+      {
+        "question": "Is Avogadro 's number commonly used to compute the results of chemical reactions ?",
+        "expected": "yes",
+        "predicted": "Avogadro's number is commonly used",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6831468343734741
+      },
+      {
+        "question": "Did the scientific community not reserve great attention to his theory ?",
+        "expected": "yes",
+        "predicted": "The theory was never published.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5679363012313843
+      },
+      {
+        "question": "Can the title of this famous 1811 paper be roughly translated into english?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.5238463282585144
+      },
+      {
+        "question": "What happened in 1833?",
+        "expected": "Avogadro had been recalled to Turin university",
+        "predicted": "The Resumption of Species Act",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.4421173632144928
+      },
+      {
+        "question": "Who determined the dependence of the boiling of water with atmospheric pressure?",
+        "expected": "Anders Celsius",
+        "predicted": "Anders Celsius",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.5451335310935974
+      },
+      {
+        "question": "What is named after him?",
+        "expected": "The Celsius crater on the Moon",
+        "predicted": " ",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.616692066192627
+      },
+      {
+        "question": "When did he publish a collection?",
+        "expected": "1733",
+        "predicted": "1841",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.45811858773231506
+      },
+      {
+        "question": "Is it true that he published a collection in 1738?",
+        "expected": "No",
+        "predicted": "No",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.48784133791923523
+      },
+      {
+        "question": "Is it true that thermometer had 100 for the freezing point?",
+        "expected": "Yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.539851725101471
+      },
+      {
+        "question": "Was Celsius born in Uppsala in Sweden?",
+        "expected": "Yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8115759491920471
+      },
+      {
+        "question": "Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?",
+        "expected": "Yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.9756119251251221
+      },
+      {
+        "question": "Is The Celsius crater on the Moon named after him?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.9467015266418457
+      },
+      {
+        "question": "Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?",
+        "expected": "Anders Celsius",
+        "predicted": "Anders Celsius",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7064798474311829
+      },
+      {
+        "question": "The Celsius crater on the Moon is what?",
+        "expected": "named after him",
+        "predicted": "named after him",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8277751207351685
+      },
+      {
+        "question": "Is the Celsius crater on the Moon named after him ?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.9467015266418457
+      },
+      {
+        "question": "Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?",
+        "expected": "Yes it had",
+        "predicted": "He determined the dependence of the boiling of water with atmospheric pressure",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6050230860710144
+      },
+      {
+        "question": "Was Celsius born in Uppsala in Sweden ?",
+        "expected": "Yes",
+        "predicted": "Yes, he was born in Sweden.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8115759491920471
+      },
+      {
+        "question": "Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?",
+        "expected": "Yes he did",
+        "predicted": "No",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.49259287118911743
+      },
+      {
+        "question": "What happened from 1730 to 1744?",
+        "expected": "He was professor of astronomy at Uppsala University",
+        "predicted": "His time in Scotland",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5276104807853699
+      },
+      {
+        "question": "What happened in 1745?",
+        "expected": "The scale was reversed",
+        "predicted": "Rev. Dr. Richard L., James Watt",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.45600658655166626
+      },
+      {
+        "question": "Are beetles insects?",
+        "expected": "Yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8240383863449097
+      },
+      {
+        "question": "Can beetles be found in polar regions?",
+        "expected": "No",
+        "predicted": "not known to occur in the sea",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5858718752861023
+      },
+      {
+        "question": "Do beetles antennae function primarily as organs of smell?",
+        "expected": "Yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7803361415863037
+      },
+      {
+        "question": "What are the three sections of a beetle?",
+        "expected": "the head, the thorax, and the abdomen",
+        "predicted": "head, the thorax, and the abdomen",
+        "f1_score": 1.0,
+        "exact_match": false,
+        "retrieval_score": 0.7269861698150635
+      },
+      {
+        "question": "Which defense mechanism uses colour or shape to deceive potential enemies?",
+        "expected": "mimicry",
+        "predicted": "mimicry",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6781792044639587
+      },
+      {
+        "question": "Which type of beetle is a pest of potato plants?",
+        "expected": "Colorado potato beetle",
+        "predicted": "Colorado potato beetle",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7692309617996216
+      },
+      {
+        "question": "How can beetle larvae be differentiated from other insect larvae?",
+        "expected": "their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body",
+        "predicted": "hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body",
+        "f1_score": 0.9655172413793104,
+        "exact_match": false,
+        "retrieval_score": 0.6477240324020386
+      },
+      {
+        "question": "What do beetles eat?",
+        "expected": "Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.",
+        "predicted": "plants and fungi",
+        "f1_score": 0.2222222222222222,
+        "exact_match": false,
+        "retrieval_score": 0.7598491907119751
+      },
+      {
+        "question": "What are the similarities between beetles and grasshoppers?",
+        "expected": "mouthparts",
+        "predicted": "beetles are herbivores",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6891112923622131
+      },
+      {
+        "question": "Are certain species of beetles considered pests?",
+        "expected": "Yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.815142035484314
+      },
+      {
+        "question": "Is a beetle's general anatomy uniform?",
+        "expected": "Yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6772172451019287
+      },
+      {
+        "question": "Are beetles endopterygotes?",
+        "expected": "yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8832166790962219
+      },
+      {
+        "question": "How many species of beetles are there?",
+        "expected": "350,000",
+        "predicted": "about 350,000 species",
+        "f1_score": 0.5,
+        "exact_match": false,
+        "retrieval_score": 0.7916178703308105
+      },
+      {
+        "question": "When are sperm cells transferred to the female?",
+        "expected": "during pairing",
+        "predicted": "During pairing",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.5689852237701416
+      },
+      {
+        "question": "What is the study of beetles called?",
+        "expected": "coleopterology",
+        "predicted": "coleopterology",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7542099356651306
+      },
+      {
+        "question": "Is it possible that there are more than 350,000 species of beetles?",
+        "expected": "yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8313933610916138
+      },
+      {
+        "question": "Is the Adephaga suborder larger than the Polyphaga suborder?",
+        "expected": "no",
+        "predicted": "Polyphaga",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6379977464675903
+      },
+      {
+        "question": "Do carrion beetles eat dung?",
+        "expected": "no",
+        "predicted": "Yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6921041011810303
+      },
+      {
+        "question": "What are prey of various animals including birds and mammals?",
+        "expected": "Beetles.",
+        "predicted": "Ducklings",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5986983776092529
+      },
+      {
+        "question": "What was given by Aristotle for the hardened shield like forewings?",
+        "expected": "The name \"Coleoptera\".",
+        "predicted": "coleoptera",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.697138786315918
+      },
+      {
+        "question": "Who or what vary greatly in form within the coleoptera?",
+        "expected": "Antennae.",
+        "predicted": "beetles",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6300077438354492
+      },
+      {
+        "question": "Are many beetles territorial?",
+        "expected": "Yes.",
+        "predicted": "Yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.703010082244873
+      },
+      {
+        "question": "Are beetles endopterygotes with complete metamorphosis?",
+        "expected": "Yes.",
+        "predicted": "Yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9662809371948242
+      },
+      {
+        "question": "Oxygen is what?",
+        "expected": "One kind of gas obtained via a tracheal system.",
+        "predicted": "tracheal system",
+        "f1_score": 0.1818181818181818,
+        "exact_match": false,
+        "retrieval_score": 0.5153404474258423
+      },
+      {
+        "question": "Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?",
+        "expected": "Yes.",
+        "predicted": "Beetle collection at the Melbourne Museum, Australia",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7200954556465149
+      },
+      {
+        "question": "Have coleopterists formed organisations to facilitate the study of beetles ?",
+        "expected": "Yes.",
+        "predicted": "Coleopterists have formed organisations",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8823890686035156
+      },
+      {
+        "question": "Is the study of beetles called coleopterology , and its practitioners are coleopterists ?",
+        "expected": "Yes.",
+        "predicted": "Yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8966187834739685
+      },
+      {
+        "question": "May a single female lay from several dozen to several thousand eggs during her lifetime ?",
+        "expected": "Yes.",
+        "predicted": "A single female may lay from several dozen to several thousand eggs",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.695026159286499
+      },
+      {
+        "question": "Can beetles be found in almost all habitats?",
+        "expected": "Yes.",
+        "predicted": "Yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7182270288467407
+      },
+      {
+        "question": "What happened on plants and fungi?",
+        "expected": "They are food to beetles.",
+        "predicted": "flora being richest in the southern parts of the country",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.39952588081359863
+      },
+      {
+        "question": "Was Calvin Coolidge the twenty-ninth vice president?",
+        "expected": "no",
+        "predicted": "Yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7261096239089966
+      },
+      {
+        "question": "Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?",
+        "expected": "yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6741576194763184
+      },
+      {
+        "question": "Did Coolidge graduate from Black River Academy?",
+        "expected": "yes",
+        "predicted": "No",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6667219400405884
+      },
+      {
+        "question": "When did he drop John from his name?",
+        "expected": "upon graduating from college",
+        "predicted": "when James was 17",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5140160918235779
+      },
+      {
+        "question": "When did Coolidge meet and marry Grace Anna Goodhue?",
+        "expected": "1905",
+        "predicted": "1905",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6627699136734009
+      },
+      {
+        "question": "What period of rapid economic growth did the United States experience during Coolidge's presidency?",
+        "expected": "the Roaring Twenties",
+        "predicted": "\"Roaring Twenties.\"",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6452919840812683
+      },
+      {
+        "question": "What did Coolidge do after graduating from Amherst?",
+        "expected": "Coolidge moved to Northampton, MassachuS08_setts",
+        "predicted": "Graduated from Amherst College",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8806955814361572
+      },
+      {
+        "question": "Of what state was Coolidge governor?",
+        "expected": "MassachuS08_setts",
+        "predicted": "North Carolina",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6678772568702698
+      },
+      {
+        "question": "Who appointed Harlan Fiske Stone to the Supreme Court?",
+        "expected": "Coolidge",
+        "predicted": "President of the United States",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8397711515426636
+      },
+      {
+        "question": "Was Coolidge the thirteenth President of the United States?",
+        "expected": "No",
+        "predicted": "The thirteenth President of the United States.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6799185276031494
+      },
+      {
+        "question": "Was Calvin Coolidge Republican?",
+        "expected": "Yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7806318998336792
+      },
+      {
+        "question": "Was Calvin Coolidge a governor of MassachuS08_setts?",
+        "expected": "Yes",
+        "predicted": "Yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7306407690048218
+      },
+      {
+        "question": "When was Coolidge born?",
+        "expected": "July 4 1872",
+        "predicted": "1 January 1921",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7184393405914307
+      },
+      {
+        "question": "Where did Coolidge's grandfather had government offices?",
+        "expected": "Plymouth",
+        "predicted": "Washington D.C.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7027729749679565
+      }
+    ]
+  },
+  {
+    "strategy": "instruction",
+    "avg_f1": 0.26700592128178335,
+    "avg_em": 0.2,
+    "time_minutes": 1.3118690927823384,
+    "detailed_results": [
+      {
+        "question": "Was Abraham Lincoln the sixteenth President of the United States?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7095189094543457
+      },
+      {
+        "question": "Did Lincoln sign the National Banking Act of 1863?",
+        "expected": "yes",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6409220695495605
+      },
+      {
+        "question": "Did his mother die of pneumonia?",
+        "expected": "no",
+        "predicted": "no",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.48330748081207275
+      },
+      {
+        "question": "How many long was Lincoln's formal education?",
+        "expected": "18 months",
+        "predicted": "18 months.",
+        "f1_score": 0.5,
+        "exact_match": false,
+        "retrieval_score": 0.6600285172462463
+      },
+      {
+        "question": "When did Lincoln begin his political career?",
+        "expected": "1832",
+        "predicted": "1832.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6692885756492615
+      },
+      {
+        "question": "What did The Legal Tender Act of 1862 establish?",
+        "expected": "the United States Note, the first paper currency in United States history",
+        "predicted": "United States Note.",
+        "f1_score": 0.3333333333333333,
+        "exact_match": false,
+        "retrieval_score": 0.6785458326339722
+      },
+      {
+        "question": "Who suggested Lincoln grow a beard?",
+        "expected": "11-year-old Grace Bedell",
+        "predicted": "Grace Bedell",
+        "f1_score": 0.8,
+        "exact_match": false,
+        "retrieval_score": 0.7020761966705322
+      },
+      {
+        "question": "When did the Gettysburg address argue that America was born?",
+        "expected": "1776",
+        "predicted": "1776.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6154927611351013
+      },
+      {
+        "question": "Did Lincoln beat John C. Breckinridge in the 1860 election?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7117346525192261
+      },
+      {
+        "question": "Was Abraham Lincoln the first President of the United States?",
+        "expected": "No",
+        "predicted": "no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6729130744934082
+      },
+      {
+        "question": "Did Lincoln start his political career in 1832?",
+        "expected": "Yes",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6880111694335938
+      },
+      {
+        "question": "Did Lincoln ever represent Alton & Sangamon Railroad?",
+        "expected": "Yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6018450856208801
+      },
+      {
+        "question": "Which county was Lincoln born in?",
+        "expected": "Hardin County",
+        "predicted": "Illinois",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.649633526802063
+      },
+      {
+        "question": "When did Lincoln first serve as President?",
+        "expected": "March 4, 1861",
+        "predicted": "no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6592390537261963
+      },
+      {
+        "question": "Who assassinated Lincoln?",
+        "expected": "John Wilkes Booth",
+        "predicted": "No.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6509284973144531
+      },
+      {
+        "question": "Did Lincoln win the election of 1860?",
+        "expected": "Yes",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6822433471679688
+      },
+      {
+        "question": "Who was the general in charge at the Battle of Antietam?",
+        "expected": "General McClellan",
+        "predicted": "No.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.49483391642570496
+      },
+      {
+        "question": "Why did Lincoln issue the Emancipation Proclamation?",
+        "expected": "To free slaves ",
+        "predicted": "freed slaves in territories not under Union control",
+        "f1_score": 0.18181818181818182,
+        "exact_match": false,
+        "retrieval_score": 0.6635249257087708
+      },
+      {
+        "question": "Do scholars rank lincoln among the top three presidents?",
+        "expected": "Yes",
+        "predicted": "yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6207891702651978
+      },
+      {
+        "question": "Did lincoln have 18 months of schooling?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6335834264755249
+      },
+      {
+        "question": "Was Lincoln chosen as a presidential candidate in 1860?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6902966499328613
+      },
+      {
+        "question": "How old was Lincoln in 1816?",
+        "expected": "seven",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6962054967880249
+      },
+      {
+        "question": "When was the first photgraph of lincoln taken?",
+        "expected": "1846",
+        "predicted": "1846.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6706699132919312
+      },
+      {
+        "question": "How long was Lincoln's legal Career?",
+        "expected": "23 years",
+        "predicted": "No.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6115480065345764
+      },
+      {
+        "question": "What trail did Lincoln use a Farmers' Almanac in? ",
+        "expected": "he defended William \"Duff\" Armstrong",
+        "predicted": "No.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5029345750808716
+      },
+      {
+        "question": "Did Abraham Lincoln live in the Frontier?",
+        "expected": "Yes",
+        "predicted": "no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6302716732025146
+      },
+      {
+        "question": "Did Lincoln's Wife's Family support slavery?",
+        "expected": "Yes",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6118900179862976
+      },
+      {
+        "question": "Who is most noted for his contributions to the theory of molarity and molecular weight?",
+        "expected": "Amedeo Avogadro",
+        "predicted": "Avogadro.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6071586608886719
+      },
+      {
+        "question": "Who graduated in ecclesiastical law at the early age of 20 and began to practice?",
+        "expected": "Amedeo Avogadro",
+        "predicted": "No.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9122514724731445
+      },
+      {
+        "question": "When did he publish another memoria?",
+        "expected": "1821",
+        "predicted": "1821.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.543007493019104
+      },
+      {
+        "question": "When did he become a professor?",
+        "expected": "1820",
+        "predicted": "1833.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5765694379806519
+      },
+      {
+        "question": "Is it true that he became a professor in 1820?",
+        "expected": "yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5728096961975098
+      },
+      {
+        "question": "Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6230548620223999
+      },
+      {
+        "question": "Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.9358149766921997
+      },
+      {
+        "question": "Is he most noted for his contributions to the theory of molarity and molecular weight?",
+        "expected": "yes",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6009079217910767
+      },
+      {
+        "question": "Was King Victor Emmanuel III there to pay homage to Avogadro ?",
+        "expected": "yes",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6783308982849121
+      },
+      {
+        "question": "Is Avogadro 's number commonly used to compute the results of chemical reactions ?",
+        "expected": "yes",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6831468343734741
+      },
+      {
+        "question": "Did the scientific community not reserve great attention to his theory ?",
+        "expected": "yes",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5679363012313843
+      },
+      {
+        "question": "Can the title of this famous 1811 paper be roughly translated into english?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.5238463282585144
+      },
+      {
+        "question": "What happened in 1833?",
+        "expected": "Avogadro had been recalled to Turin university",
+        "predicted": "No.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.4421173632144928
+      },
+      {
+        "question": "Who determined the dependence of the boiling of water with atmospheric pressure?",
+        "expected": "Anders Celsius",
+        "predicted": "Anders Celsius.",
+        "f1_score": 0.5,
+        "exact_match": false,
+        "retrieval_score": 0.5451335310935974
+      },
+      {
+        "question": "What is named after him?",
+        "expected": "The Celsius crater on the Moon",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.616692066192627
+      },
+      {
+        "question": "When did he publish a collection?",
+        "expected": "1733",
+        "predicted": "1841.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.45811858773231506
+      },
+      {
+        "question": "Is it true that he published a collection in 1738?",
+        "expected": "No",
+        "predicted": "no",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.48784133791923523
+      },
+      {
+        "question": "Is it true that thermometer had 100 for the freezing point?",
+        "expected": "Yes",
+        "predicted": "no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.539851725101471
+      },
+      {
+        "question": "Was Celsius born in Uppsala in Sweden?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8115759491920471
+      },
+      {
+        "question": "Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.9756119251251221
+      },
+      {
+        "question": "Is The Celsius crater on the Moon named after him?",
+        "expected": "Yes",
+        "predicted": "yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9467015266418457
+      },
+      {
+        "question": "Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?",
+        "expected": "Anders Celsius",
+        "predicted": "Anders Celsius.",
+        "f1_score": 0.5,
+        "exact_match": false,
+        "retrieval_score": 0.7064798474311829
+      },
+      {
+        "question": "The Celsius crater on the Moon is what?",
+        "expected": "named after him",
+        "predicted": "named after.",
+        "f1_score": 0.4,
+        "exact_match": false,
+        "retrieval_score": 0.8277751207351685
+      },
+      {
+        "question": "Is the Celsius crater on the Moon named after him ?",
+        "expected": "Yes",
+        "predicted": "yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.9467015266418457
+      },
+      {
+        "question": "Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?",
+        "expected": "Yes it had",
+        "predicted": "No.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6050230860710144
+      },
+      {
+        "question": "Was Celsius born in Uppsala in Sweden ?",
+        "expected": "Yes",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8115759491920471
+      },
+      {
+        "question": "Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?",
+        "expected": "Yes he did",
+        "predicted": "No.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.49259287118911743
+      },
+      {
+        "question": "What happened from 1730 to 1744?",
+        "expected": "He was professor of astronomy at Uppsala University",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5276104807853699
+      },
+      {
+        "question": "What happened in 1745?",
+        "expected": "The scale was reversed",
+        "predicted": "No.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.45600658655166626
+      },
+      {
+        "question": "Are beetles insects?",
+        "expected": "Yes",
+        "predicted": "yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8240383863449097
+      },
+      {
+        "question": "Can beetles be found in polar regions?",
+        "expected": "No",
+        "predicted": "no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5858718752861023
+      },
+      {
+        "question": "Do beetles antennae function primarily as organs of smell?",
+        "expected": "Yes",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7803361415863037
+      },
+      {
+        "question": "What are the three sections of a beetle?",
+        "expected": "the head, the thorax, and the abdomen",
+        "predicted": "head, thorax, and the abdomen.",
+        "f1_score": 0.8000000000000002,
+        "exact_match": false,
+        "retrieval_score": 0.7269861698150635
+      },
+      {
+        "question": "Which defense mechanism uses colour or shape to deceive potential enemies?",
+        "expected": "mimicry",
+        "predicted": "yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6781792044639587
+      },
+      {
+        "question": "Which type of beetle is a pest of potato plants?",
+        "expected": "Colorado potato beetle",
+        "predicted": "Colorado potato beetle",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7692309617996216
+      },
+      {
+        "question": "How can beetle larvae be differentiated from other insect larvae?",
+        "expected": "their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body",
+        "predicted": "hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body.",
+        "f1_score": 0.896551724137931,
+        "exact_match": false,
+        "retrieval_score": 0.6477240324020386
+      },
+      {
+        "question": "What do beetles eat?",
+        "expected": "Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.",
+        "predicted": "plants and fungi.",
+        "f1_score": 0.2222222222222222,
+        "exact_match": false,
+        "retrieval_score": 0.7598491907119751
+      },
+      {
+        "question": "What are the similarities between beetles and grasshoppers?",
+        "expected": "mouthparts",
+        "predicted": "no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6891112923622131
+      },
+      {
+        "question": "Are certain species of beetles considered pests?",
+        "expected": "Yes",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.815142035484314
+      },
+      {
+        "question": "Is a beetle's general anatomy uniform?",
+        "expected": "Yes",
+        "predicted": "yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6772172451019287
+      },
+      {
+        "question": "Are beetles endopterygotes?",
+        "expected": "yes",
+        "predicted": "yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8832166790962219
+      },
+      {
+        "question": "How many species of beetles are there?",
+        "expected": "350,000",
+        "predicted": "350,000.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7916178703308105
+      },
+      {
+        "question": "When are sperm cells transferred to the female?",
+        "expected": "during pairing",
+        "predicted": "During pairing.",
+        "f1_score": 0.5,
+        "exact_match": false,
+        "retrieval_score": 0.5689852237701416
+      },
+      {
+        "question": "What is the study of beetles called?",
+        "expected": "coleopterology",
+        "predicted": "coleopterology.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7542099356651306
+      },
+      {
+        "question": "Is it possible that there are more than 350,000 species of beetles?",
+        "expected": "yes",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8313933610916138
+      },
+      {
+        "question": "Is the Adephaga suborder larger than the Polyphaga suborder?",
+        "expected": "no",
+        "predicted": "Yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6379977464675903
+      },
+      {
+        "question": "Do carrion beetles eat dung?",
+        "expected": "no",
+        "predicted": "yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6921041011810303
+      },
+      {
+        "question": "What are prey of various animals including birds and mammals?",
+        "expected": "Beetles.",
+        "predicted": "Ducklings.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5986983776092529
+      },
+      {
+        "question": "What was given by Aristotle for the hardened shield like forewings?",
+        "expected": "The name \"Coleoptera\".",
+        "predicted": "The name \"Coleoptera\"",
+        "f1_score": 0.6666666666666666,
+        "exact_match": false,
+        "retrieval_score": 0.697138786315918
+      },
+      {
+        "question": "Who or what vary greatly in form within the coleoptera?",
+        "expected": "Antennae.",
+        "predicted": "Beetles.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6300077438354492
+      },
+      {
+        "question": "Are many beetles territorial?",
+        "expected": "Yes.",
+        "predicted": "yes.",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.703010082244873
+      },
+      {
+        "question": "Are beetles endopterygotes with complete metamorphosis?",
+        "expected": "Yes.",
+        "predicted": "yes.",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.9662809371948242
+      },
+      {
+        "question": "Oxygen is what?",
+        "expected": "One kind of gas obtained via a tracheal system.",
+        "predicted": "yes.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5153404474258423
+      },
+      {
+        "question": "Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?",
+        "expected": "Yes.",
+        "predicted": "Yes.",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7200954556465149
+      },
+      {
+        "question": "Have coleopterists formed organisations to facilitate the study of beetles ?",
+        "expected": "Yes.",
+        "predicted": "Yes.",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.8823890686035156
+      },
+      {
+        "question": "Is the study of beetles called coleopterology , and its practitioners are coleopterists ?",
+        "expected": "Yes.",
+        "predicted": "yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8966187834739685
+      },
+      {
+        "question": "May a single female lay from several dozen to several thousand eggs during her lifetime ?",
+        "expected": "Yes.",
+        "predicted": "Yes.",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.695026159286499
+      },
+      {
+        "question": "Can beetles be found in almost all habitats?",
+        "expected": "Yes.",
+        "predicted": "yes.",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7182270288467407
+      },
+      {
+        "question": "What happened on plants and fungi?",
+        "expected": "They are food to beetles.",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.39952588081359863
+      },
+      {
+        "question": "Was Calvin Coolidge the twenty-ninth vice president?",
+        "expected": "no",
+        "predicted": "no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7261096239089966
+      },
+      {
+        "question": "Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?",
+        "expected": "yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.6741576194763184
+      },
+      {
+        "question": "Did Coolidge graduate from Black River Academy?",
+        "expected": "yes",
+        "predicted": "no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6667219400405884
+      },
+      {
+        "question": "When did he drop John from his name?",
+        "expected": "upon graduating from college",
+        "predicted": "No.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.5140160918235779
+      },
+      {
+        "question": "When did Coolidge meet and marry Grace Anna Goodhue?",
+        "expected": "1905",
+        "predicted": "1905.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6627699136734009
+      },
+      {
+        "question": "What period of rapid economic growth did the United States experience during Coolidge's presidency?",
+        "expected": "the Roaring Twenties",
+        "predicted": "Roaring Twenties.",
+        "f1_score": 0.4,
+        "exact_match": false,
+        "retrieval_score": 0.6452919840812683
+      },
+      {
+        "question": "What did Coolidge do after graduating from Amherst?",
+        "expected": "Coolidge moved to Northampton, MassachuS08_setts",
+        "predicted": "no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8806955814361572
+      },
+      {
+        "question": "Of what state was Coolidge governor?",
+        "expected": "MassachuS08_setts",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6678772568702698
+      },
+      {
+        "question": "Who appointed Harlan Fiske Stone to the Supreme Court?",
+        "expected": "Coolidge",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.8397711515426636
+      },
+      {
+        "question": "Was Coolidge the thirteenth President of the United States?",
+        "expected": "No",
+        "predicted": "yes",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.6799185276031494
+      },
+      {
+        "question": "Was Calvin Coolidge Republican?",
+        "expected": "Yes",
+        "predicted": "no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7806318998336792
+      },
+      {
+        "question": "Was Calvin Coolidge a governor of MassachuS08_setts?",
+        "expected": "Yes",
+        "predicted": "yes",
+        "f1_score": 1.0,
+        "exact_match": true,
+        "retrieval_score": 0.7306407690048218
+      },
+      {
+        "question": "When was Coolidge born?",
+        "expected": "July 4 1872",
+        "predicted": "no",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7184393405914307
+      },
+      {
+        "question": "Where did Coolidge's grandfather had government offices?",
+        "expected": "Plymouth",
+        "predicted": "no.",
+        "f1_score": 0.0,
+        "exact_match": false,
+        "retrieval_score": 0.7027729749679565
+      }
+    ]
+  }
+]
