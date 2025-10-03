@@ -1,0 +1,7 @@
+Embedding Model,Top-K,Avg F1,EM %,Time (min)
+all-MiniLM-L6-v2,1,0.516,46.0%,0.6
+all-MiniLM-L6-v2,3,0.516,46.0%,0.6
+all-MiniLM-L6-v2,5,0.516,46.0%,0.6
+all-mpnet-base-v2,1,0.632,56.0%,0.7
+all-mpnet-base-v2,3,0.632,56.0%,0.7
+all-mpnet-base-v2,5,0.632,56.0%,0.7
