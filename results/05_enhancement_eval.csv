@@ -1,5 +1,5 @@
 Configuration,F1 Score,Exact Match %,Reranking,Query Rewriting
-Baseline (no enhancements),0.556,50.0%,False,False
-Re-ranking only,0.615,56.0%,True,False
-Query rewriting only,0.576,52.0%,False,True
-Both enhancements,0.615,56.0%,True,True
+Baseline (no enhancements),0.556,50.00%,FALSE,FALSE
+Re-ranking only,0.615,56.00%,TRUE,FALSE
+Query rewriting only,0.576,52.00%,FALSE,TRUE
+Both enhancements,0.615,56.00%,TRUE,TRUE
