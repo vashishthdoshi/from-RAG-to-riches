@@ -320,18 +320,25 @@ class NaiveRAG:
 		
 		Returns:
 			Dictionary with question, answer, context, and score
-		"""
+			"""
+		
 		try:
 			# Retrieve relevant documents
-			retrieved = self.retrieve(question, top_k=top_k)
-			
-			# Use top document as context
-			context, score = retrieved[0]
+                        retrieved = self.retrieve(question, top_k=top_k)
+		
+                        # Use top document = 1 for naive implementation, and then also 3 and 5:
+                        if top_k == 1:
+                                context, score = retrieved[0]
+                        else:
+			# Concatenate multiple retrieved documents
+                                contexts = [doc for doc, _ in retrieved]
+                                context = "\n\n---\n\n".join(contexts)
+                                score = retrieved[0][1]
 			
 			# Generate answer
-			answer = self.generate_answer(question, context, prompt_strategy)
+                        answer = self.generate_answer(question, context, prompt_strategy)
 			
-			return {
+                        return {
 				'question': question,
 				'answer': answer,
 				'context': context,
