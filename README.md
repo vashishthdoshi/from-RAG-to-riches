@@ -1,4 +1,4 @@
-# RAG System Implementation - Assignment 2
+# RAG System Implementation
 
 A complete Retrieval-Augmented Generation (RAG) system built with open-source models, featuring a naive baseline and enhanced implementations with comprehensive evaluation.
 
